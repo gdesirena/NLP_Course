@@ -12,41 +12,59 @@
     5. Librerías de NLP en Python (spaCy, NLTK)
  
     
-`Módulo 1.` **Fundamentos de Modelos de Lenguaje**
+`Módulo 1.` **Fundamentos de NLP**
 
     1. Modelo vectorial de texto.
+    
     2. Preprocesamiento: 
         - Tokenization.
         - Stemming.
         - Lemmatization.
         - StopWords.
         
-    3. Naive Bayes para clasificación de documentos
-        - Aplicación: Análisis de sentimientos
-    4. Modelos Líneales para la clasificación de documentos.
-        - N-gramas de palabras y caracteres
-        - Funciones de pérdida
-        - Entrenamiento con Gradient Descent
-    5. Word Embeddings.
+    3. Naive Bayes para clasificación de documentos.
+        - Análisis de sentimientos.
     
+    4. Modelos Líneales para la clasificación de documentos.
+        - N-gramas de palabras y caracteres.
+        - Funciones de pérdida.
+        - Entrenamiento con Gradient Descent.
+        
+    5. Vectores Palabra (Word Embeddings).
+        - Matrices palabra-contexto.
+        - Modelo Skip-gram.
+        - Modelo Continuos Bag of Words.
+        - Negative Sampling.   
+        
+   
 
-`Módulo 2.` **Etiquetado de Secuencia.**
-
-    1. Procesos de Markov    
-    2. Cadenas de Markov ocultas.
-    3. Etiquetado con modelos lineales
-    4. Redes Neuronales Convolucionales para la detección de n-gramas.
-    5. Redes Neuronales Recurrentes.
+`Módulo 2.` **Modelos de Lenguaje y Etiquetado de Secuencia.**
+   
+    1. Modelos de Lenguaje.
+        - Procesos de Markov
+        - Modelos de unigramas, bigramas y trigramas
+        - Evaluación de modelos de lenguaje: perplejidad
+        - Interpolación de modelos de Lenguaje
+        
+    2. Problemas de Etiquetado
+    3. Cadenas ocultas de Markov
+        - Algoritmo de Viterbi
+        
+    4. Etiquetado con modelos lineales
+    
+    
+`Módulo 3.` **Modelos de secuencia para NLP**
+    
+    1. Redes Neuronales Convolucionales para la detección de n-gramas.
+    
+    2. Redes Neuronales Recurrentes.
         - Aplicaciones: clasificación, etiquetado y modelos de lenguaje.
         - Redes recurrentes bidireccionales.
         - Arquitecturas recurrentes con compuertas: LSTM y GRU.
 
-    
-`Módulo 3.` **NLP con Modelo de secuencia**
-
-    1. Modelos secuencia-secuencia
-    2. Arquitectura codificador-decodificador.
-    3. Capas de atención
-    4. Aplicaciones: Generación de resúmenes, traducción automática.
+    3. Modelos secuencia-secuencia
+        - Arquitectura codificador-decodificador.
+        - Capas de atención
+        - Aplicaciones: Generación de resúmenes, traducción automática.
     
     
