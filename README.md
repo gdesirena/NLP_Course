@@ -9,12 +9,18 @@
     2. Análisis básico de textos con Python.
     3. Archivos de texto con Python.
     4. Expresiones Regulares.
+    5. Librerías de NLP en Python (spaCy, NLTK)
  
     
 `Módulo 1.` **Fundamentos de Modelos de Lenguaje**
 
     1. Modelo vectorial de texto.
-    2. Preprocesamiento: stemming y borrado de stopwords.
+    2. Preprocesamiento: 
+        - Tokenization.
+        - Stemming.
+        - Lemmatization.
+        - StopWords.
+        
     3. Naive Bayes para clasificación de documentos
         - Aplicación: Análisis de sentimientos
     4. Modelos Líneales para la clasificación de documentos.
