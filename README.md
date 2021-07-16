@@ -14,14 +14,13 @@
     
 `Módulo 1.` **Fundamentos de NLP**
 
-    1. Modelo vectorial de texto.
-    
-    2. Preprocesamiento: 
+    1. Preprocesamiento: 
         - Tokenization.
         - Stemming.
         - Lemmatization.
         - StopWords.
-        
+    2. Clasificación de documentos (Regresión logística)
+    
     3. Naive Bayes para clasificación de documentos.
         - Análisis de sentimientos.
     
