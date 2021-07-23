@@ -1,5 +1,4 @@
-This is a new first line
-This line is being appended to test.txt
-And another line here.
-This is more text being appended to test.txt
-And another line here.
+Esta es una nueva linea
+ esta linea se concatena con las anteriores
+ Esta es otra nueva linea que se concatena con las anterioreseste es más contenido para el archivo test.txt
+otra linea
