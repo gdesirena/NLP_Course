@@ -29,27 +29,28 @@
         - Funciones de pérdida.
         - Entrenamiento con Gradient Descent.
         
-    5. Vectores Palabra (Word Embeddings).
+   
+
+`Módulo 2.` **Modelos de Lenguaje y Etiquetado de Secuencia.**
+    
+    1. Vectores Palabra (Word Embeddings).
         - Matrices palabra-contexto.
         - Modelo Skip-gram.
         - Modelo Continuos Bag of Words.
         - Negative Sampling.   
         
    
-
-`Módulo 2.` **Modelos de Lenguaje y Etiquetado de Secuencia.**
-   
-    1. Modelos de Lenguaje.
+    2. Modelos de Lenguaje.
         - Procesos de Markov
         - Modelos de unigramas, bigramas y trigramas
         - Evaluación de modelos de lenguaje: perplejidad
         - Interpolación de modelos de Lenguaje
         
-    2. Problemas de Etiquetado
-    3. Cadenas ocultas de Markov
+    3. Problemas de Etiquetado
+    4. Cadenas ocultas de Markov
         - Algoritmo de Viterbi
         
-    4. Etiquetado con modelos lineales
+    5. Etiquetado con modelos lineales
     
     
 `Módulo 3.` **Modelos de secuencia para NLP**
