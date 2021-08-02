@@ -46,13 +46,10 @@
         - Evaluación de modelos de lenguaje: perplejidad
         - Interpolación de modelos de Lenguaje
         
-    3. Problemas de Etiquetado
-    4. Cadenas ocultas de Markov
+    3. Cadenas ocultas de Markov
         - Algoritmo de Viterbi
-        
-    5. Etiquetado con modelos lineales
-    
-    
+
+
 `Módulo 3.` **Modelos de secuencia para NLP**
     
     1. Redes Neuronales Convolucionales para la detección de n-gramas.
