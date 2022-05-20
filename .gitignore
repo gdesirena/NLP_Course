@@ -1,14 +1,7 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/python
-# Edit at https://www.toptal.com/developers/gitignore?templates=python
-
-### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*.py[cod]
 *$py.class
-.ipynb_checkpoints
 
 # C extensions
 *.so
@@ -27,22 +20,19 @@ parts/
 sdist/
 var/
 wheels/
+pip-wheel-metadata/
 share/python-wheels/
-rawdata/
-slides_recursos/
-NLP Course/
-Introduction/Notebooks
-Module_I/Notebooks
-Module_I/Slides/slides_recursos
-Module_II/Notebooks
-Module_II/Slides/slides_recursos
-Module_III/Notebooks
-Module_III/Slides/slides_recursos
-Notebooks/
+Introducción/Notebooks
+Modulo1/Notebooks
+Modulo2/Notebooks
+Modulo3/Notebooks
+Modulo1/Slides/slides_recursos
+Modulo2/Slides/slides_recursos
+Modulo3/Slides/slides_recursos
+Proyecto Final/
 *.egg-info/
 .installed.cfg
 *.egg
-*.pptx
 MANIFEST
 
 # PyInstaller
@@ -68,7 +58,6 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
-cover/
 
 # Translations
 *.mo
@@ -91,7 +80,6 @@ instance/
 docs/_build/
 
 # PyBuilder
-.pybuilder/
 target/
 
 # Jupyter Notebook
@@ -102,9 +90,7 @@ profile_default/
 ipython_config.py
 
 # pyenv
-#   For a library or package, you might want to ignore these files since the code is
-#   intended to run in multiple environments; otherwise, check them in:
-# .python-version
+.python-version
 
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
@@ -149,11 +135,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# pytype static type analyzer
-.pytype/
-
-# Cython debug symbols
-cython_debug/
-
-# End of https://www.toptal.com/developers/gitignore/api/python
